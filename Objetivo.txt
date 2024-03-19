@@ -1,0 +1,26 @@
+<html>
+
+<head>
+<title>Objetivo</title>
+</head>
+<body>
+
+
+<h2>    <p align="center"> "Objetivos"</p></h2>  
+<h4>    <p align="center"> Promover la producción local de pequeños negocios.</p></h4>  
+ 
+
+<h2>    <p align="center"> "Misión" </p></h2>   
+<h4>    <p align="center"> A través de esta página se pretende lograr e</p></h4>   
+<h4>    <p align="center"> impulsar a pequeños negocios para</p></h4>   
+<h4>    <p align="center"> emprender en el mundo laboral y</p></h4>   
+<h4>       <p align="center"> generar ingresos. </p></h4>
+       
+
+<h2>    <p align="center"> "Visión"</p></h2>  
+<h4>    <p align="center"> Crecer de manera potencial nuestra empresa</p></h4>
+<h4>    <p align="center"> a partir de la elaboración de postres artesanales.</p></h4>
+<video src="videopromocional.mp4" width="340" heigh="280" controls></video>
+
+
+

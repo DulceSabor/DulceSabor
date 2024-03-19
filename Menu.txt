@@ -1,0 +1,50 @@
+<html>
+
+<head>
+<title>Menú de Bebidas</title>
+</head>
+<body>
+<body style="background-color: #ccccff; background-image: url('Bebidas.html'); background-repeat: no-repeat; background-size: 1400px 1100px;">
+<!-- Your content goes here -->
+</body>
+<h1><p align="center">Menú de Bebidas</h1></p>
+<br>
+<h2><p align="center">En esta sección puedes encontrar nuestro menú de bebidas, elaborados con mucho dulsura.</h2></p>
+<p align="center">¡Ven y disfruta de un momento dulce con nosotros!</p>
+<p align="center"><i><h><span style="color:blue">#Dulce sabor.</i></p>
+<p align="center">No te quedes sin provarlo, ¡te van a encantar!</p>
+</body>
+</html>
+<br>
+<body>
+<style> 
+table {
+            margin-left: auto;
+            margin-right: auto;
+        }
+table{border-collapse: separate;border:black 1px solid;background-color:#FFCCCC}
+th {border-collapse: separate;border:black 1px solid;}
+td {border-collapse: separate;border:black 1px solid;}
+</style>
+
+<table>
+<tr>
+<th>Sandía</th>
+<th>Café batido con lechera</th>
+<th>Piña colada </th>
+<th>Cinderella </th>
+</tr>
+<tr>
+<td>$15.00</td>
+<td>$20.00</td>
+<td>$20.00</td>
+<td>$20.00</td>
+<tr>
+<td><img src="sandía.jpeg" heigt=90px width=100px>
+<td><img src="Café.jpeg" heigt=100px width=100px>
+<td><img src="Piña colada.jpeg" heigt=70px width=70px>
+<td><img src="Cinderella.jpeg" heigt=100px width=100px>
+</tr>
+
+
+</html>

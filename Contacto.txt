@@ -1,0 +1,28 @@
+<html>
+
+<head>
+<title>Contacto</title>
+</head>
+<body>
+<body style="background-color: #ccccff; background-image: url('codioful-formerly-gradienta-LeG68PrXA6Y-unsplash.jpg'); background-repeat: no-repeat; background-size: 1400px 1100px;">
+<!-- Your content goes here -->
+</body>
+
+<h2>   <p><b>"Contactos"</b></p></h2>
+<br>
+<p>En esta sección puedes encontrar nuestro </p>
+<p>contacto, donde te atenderemos con mucho amor.</p>
+<p>¡Ven y disfruta de un momento dulce con nosotros!</p>
+<p><i><h><span style="color:blue">#Dulce sabor.</i></p>
+<p>No te quedes sin provarlo, ¡te van a encantar!</p>
+<br>
+<p><h4>Ubicación: Cuzamá, Yucatán</h4></p>
+<p><h4>Gmail: chinadia13@gmail.com</h4></p>
+<p><h4>Dirección: C 14 x 11 y 13 s/n</h4></p>
+<p><h4>Teléfono: 99 91 18 91 56</h4></p>
+<a href='https://www.facebook.com/profile.php?id=61557203258827&mibextid=ZbWKwL'> Visita Facebook</a>
+
+
+
+</body>
+</html>
